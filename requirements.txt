@@ -1,0 +1,4 @@
+flask-debug
+flask-restful
+Flask-HTTPAuth
+lxml
